@@ -29,3 +29,22 @@ Internally both the scripts run the following commands
 
 You can refer our help documents [here](https://help.geektrust.com)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
+
+
+
+
+
+
+
+A paid for B, C 100 = 33
+A got cashback of 10
+clearDue 10/3 = 3
+clear 3 from B and C with A
+
+
+
+A got 10 
+B and C are clearing out
+
+
+
